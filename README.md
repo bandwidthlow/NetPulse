@@ -22,12 +22,12 @@ pip install -r requirements.txt
 
 3.Set executable permissions for the script:
 ```bash
-chmod +x traffic_analyzer.py
+chmod +x main.py.py
 ```
 
 4.Run the tool:
 ```bash
-sudo ./traffic_analyzer.py
+sudo ./main.py
 ```
 
 ## Usage 📈
