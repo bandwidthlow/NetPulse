@@ -12,7 +12,7 @@ Welcome to the **Network Traffic Analyzer** tool! 🛠️ This tool helps you ca
 
 1.Clone this repository:
 ```bash
-   git clone https://github.com/bandwidthlow/NetPulse.git
+git clone https://github.com/bandwidthlow/NetPulse.git
 ```
    
 2.Install dependencies:
