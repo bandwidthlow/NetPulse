@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 3.Set executable permissions for the script:
 ```bash
-chmod +x main.py.py
+chmod +x main.py
 ```
 
 4.Run the tool:
